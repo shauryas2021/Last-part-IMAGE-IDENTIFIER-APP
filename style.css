@@ -1,0 +1,8 @@
+body{
+    background-image:linear-gradient(yellow 0%, red 100% )
+}
+#camera, #result{
+    border: 2px ridge aqua;
+    width: 350px;
+    height: 300px;
+}
